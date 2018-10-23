@@ -1,0 +1,13 @@
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\bin\Debug\netstandard2.0\Kelompok19.deps.json
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\bin\Debug\netstandard2.0\Kelompok19.dll
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\bin\Debug\netstandard2.0\Kelompok19.pdb
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.App.xaml.g.cs
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.LoginPage.xaml.g.cs
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.MainPage.xaml.g.cs
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.SignUpPage.xaml.g.cs
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.AssemblyInfo.cs
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.dll
+C:\Users\muham\source\repos\Kelompok19\Kelompok19\Kelompok19\obj\Debug\netstandard2.0\Kelompok19.pdb
